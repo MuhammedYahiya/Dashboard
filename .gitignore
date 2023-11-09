@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for JavaScript dependencies
+node_modules
+
+# Directory for production build
+build
+
+# Environment configuration
+.env
+
+# IDE files
+.idea
+.vscode
